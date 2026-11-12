@@ -1,0 +1,15 @@
+========== LOG FILE READER ==========
+File: sample.log
+
+2026-11-10 09:00:00 INFO Application started
+2026-11-10 09:02:15 WARNING Disk space is getting low
+2026-11-10 09:03:40 ERROR Unable to connect to database
+2026-11-10 09:05:00 INFO Retrying database connection
+2026-11-10 09:05:30 INFO Connection successful
+
+---------- LOG SUMMARY ----------
+Total entries : 5
+INFO          : 3
+WARNING       : 1
+ERROR         : 1
+---------------------------------
