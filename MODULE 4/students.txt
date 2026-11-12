@@ -1,0 +1,3 @@
+101|Asha|Computer Science
+102|Rahul|Information Technology
+103|Meena|Electronics
