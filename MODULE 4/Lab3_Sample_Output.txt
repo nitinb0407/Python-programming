@@ -1,0 +1,12 @@
+====== CSV PAYROLL MANAGEMENT SYSTEM ======
+ID      Name           Gross Pay    Deduction      Net Pay
+-----------------------------------------------------------
+E101    Ananya          35000.00      2000.00     33000.00
+E102    Kiran           28500.00      1500.00     27000.00
+E103    Meera           46000.00      3000.00     43000.00
+-----------------------------------------------------------
+Employees processed: 3
+Payroll report saved to: payroll_report.csv
+
+The program also creates employees.csv (sample input) and
+payroll_report.csv (calculated output) in the same folder.
