@@ -1,0 +1,5 @@
+2026-11-12 INFO Application started
+2026-11-12 WARNING Disk space is getting low
+2026-11-12 INFO User logged in
+2026-11-12 ERROR Unable to connect to database
+2026-11-12 INFO Application stopped
