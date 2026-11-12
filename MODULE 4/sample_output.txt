@@ -1,0 +1,36 @@
+MODULE 4 - SAMPLE OUTPUTS
+
+LAB 1 - LOG FILE READER
+Reading: sample.log
+---------------------------------------------
+2026-11-12 INFO Application started
+2026-11-12 WARNING Disk space is getting low
+2026-11-12 INFO User logged in
+2026-11-12 ERROR Unable to connect to database
+2026-11-12 INFO Application stopped
+
+===== LOG SUMMARY =====
+Total entries: 5
+ERROR: 1
+INFO: 3
+WARNING: 1
+
+LAB 2 - STUDENT DATA MANAGER (select option 2)
+===== STUDENT RECORDS =====
+Roll No.    Name                  Course
+------------------------------------------------
+101         Asha                  Computer Science
+102         Rahul                 Information Technology
+103         Meena                 Electronics
+
+LAB 3 - CSV PAYROLL MANAGEMENT
+================ PAYROLL REPORT ================
+Employee             Hours       Gross   Deduction     Net Pay
+--------------------------------------------------------------
+Anita                 40.0     8000.00      800.00     7200.00
+Bharath               45.0    11875.00     1425.00    10450.00
+Charan                35.0     6300.00      504.00     5796.00
+--------------------------------------------------------------
+Total net payroll:                                      23446.00
+
+Payroll values are sample amounts.
