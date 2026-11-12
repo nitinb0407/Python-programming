@@ -1,0 +1,45 @@
+===== STUDENT DATA MANAGER =====
+1. Add student
+2. View all students
+3. Search student
+4. Exit
+Enter your choice: 1
+Enter roll number: 101
+Enter student name: Asha
+Enter marks (0-100): 88
+Student record saved successfully.
+
+===== STUDENT DATA MANAGER =====
+1. Add student
+2. View all students
+3. Search student
+4. Exit
+Enter your choice: 1
+Enter roll number: 102
+Enter student name: Rahul
+Enter marks (0-100): 92
+Student record saved successfully.
+
+===== STUDENT DATA MANAGER =====
+1. Add student
+2. View all students
+3. Search student
+4. Exit
+Enter your choice: 2
+
+--------- STUDENT RECORDS ---------
+Roll No.    Name                     Marks
+------------------------------------------
+101         Asha                     88.00
+102         Rahul                    92.00
+-----------------------------------
+
+===== STUDENT DATA MANAGER =====
+1. Add student
+2. View all students
+3. Search student
+4. Exit
+Enter your choice: 4
+Exiting Student Data Manager.
+
+Note: students.txt is created automatically when the first record is added.
