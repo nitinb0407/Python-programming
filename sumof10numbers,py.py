@@ -6,5 +6,5 @@ Enter "help" below or click "Help" above for more information.
 >>> print(n)
 range(0, 5)
 >>> 
-= RESTART: C:/Users/NITHIN RAGUNATH/AppData/Local/Programs/Python/Python314/sumof10numbers.py
+= RESTART: C:/Users/NITIN/AppData/Local/Programs/Python/Python314/sumof10numbers.py
 55
