@@ -1,0 +1,44 @@
+[
+    {
+        "timestamp": "2026-11-18 09:00:00",
+        "level": "INFO",
+        "application": "CollegePortal",
+        "user": "admin",
+        "message": "Application started successfully"
+    },
+    {
+        "timestamp": "2026-11-18 09:05:12",
+        "level": "WARNING",
+        "application": "CollegePortal",
+        "user": "student01",
+        "message": "Multiple login attempts detected"
+    },
+    {
+        "timestamp": "2026-11-18 09:08:45",
+        "level": "ERROR",
+        "application": "CollegePortal",
+        "user": "system",
+        "message": "Database connection failed"
+    },
+    {
+        "timestamp": "2026-11-18 09:12:30",
+        "level": "INFO",
+        "application": "CollegePortal",
+        "user": "student02",
+        "message": "Student logged in successfully"
+    },
+    {
+        "timestamp": "2026-11-18 09:15:10",
+        "level": "DEBUG",
+        "application": "CollegePortal",
+        "user": "system",
+        "message": "Login request processed"
+    },
+    {
+        "timestamp": "2026-11-18 09:20:00",
+        "level": "ERROR",
+        "application": "PaymentService",
+        "user": "student03",
+        "message": "Payment processing failed"
+    }
+]
