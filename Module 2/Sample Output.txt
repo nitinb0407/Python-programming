@@ -1,0 +1,47 @@
+MODULE 2 - SAMPLE OUTPUTS
+=========================
+
+LAB 1: NUMBER GUESSING GAME
+---------------------------
+NUMBER GUESSING GAME
+Guess a number between 1 and 50.
+Enter your guess: 20
+Too low! Try again.
+Enter your guess: 35
+Too high! Try again.
+Enter your guess: 28
+Correct! You guessed the number in 3 attempts.
+
+Note: The secret number is generated randomly, so each run may be different.
+
+LAB 2: PRIME NUMBER AND FACTORIAL
+---------------------------------
+Enter a number to check whether it is prime: 7
+7 is a prime number.
+
+Enter a number to find its factorial: 5
+Factorial of 5 is 120
+
+LAB 3: FIBONACCI SERIES USING RECURSION
+---------------------------------------
+Enter the number of terms: 7
+Fibonacci series:
+0 1 1 2 3 5 8
+
+LAB 4: STUDENT GRADING AUTOMATION
+---------------------------------
+Enter student name: Nitin
+Enter number of subjects: 3
+Enter marks for subject 1 (0-100): 95
+Enter marks for subject 2 (0-100): 85
+Enter marks for subject 3 (0-100): 90
+
+------ STUDENT RESULT ------
+Student Name: Nitin
+Total Marks: 270.0 / 300
+Average: 90.0 %
+Grade: A+
+Result: Pass
+----------------------------
+
+Note: These are sample runs. Results depend on the values entered.
