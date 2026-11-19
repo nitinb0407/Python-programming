@@ -1,0 +1,79 @@
+MODULE 3 - SAMPLE OUTPUTS
+=========================
+
+LAB 1: CONTACT BOOK USING LISTS AND DICTIONARIES
+-----------------------------------------------
+CONTACT BOOK
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Exit
+Enter your choice: 1
+Enter contact name: Rahul
+Enter phone number: 9876543210
+Enter email address: rahul@example.com
+Contact added successfully!
+
+CONTACT BOOK
+1. Add Contact
+2. View Contacts
+3. Search Contact
+4. Exit
+Enter your choice: 2
+
+--- CONTACT LIST ---
+1. Rahul | 9876543210 | rahul@example.com
+
+LAB 2: STUDENT GRADING SYSTEM
+-----------------------------
+Enter number of students: 2
+
+Student 1
+Enter student name: Ananya
+Enter marks (0-100): 92
+
+Student 2
+Enter student name: Rahul
+Enter marks (0-100): 76
+
+------ STUDENT GRADING REPORT ------
+Name: Ananya | Marks: 92.0 | Grade: A+ | Result: Pass
+Name: Rahul | Marks: 76.0 | Grade: B | Result: Pass
+
+LAB 3: FREQUENCY COUNTER USING DICTIONARIES
+-------------------------------------------
+Enter a sentence: hello world
+
+Character Frequency:
+d: 1
+e: 1
+h: 1
+l: 3
+o: 2
+r: 1
+w: 1
+
+Word Frequency:
+hello: 1
+world: 1
+
+LAB 4: ATTENDANCE TRACKER
+-------------------------
+Enter number of students: 2
+Enter total working days: 20
+Enter name of student 1: Ananya
+Enter days present for Ananya: 18
+Enter name of student 2: Rahul
+Enter days present for Rahul: 13
+
+--------- ATTENDANCE REPORT ---------
+Name: Ananya
+Present: 18 | Absent: 2
+Attendance: 90.00% | Status: Eligible
+-------------------------------------
+Name: Rahul
+Present: 13 | Absent: 7
+Attendance: 65.00% | Status: Shortage
+-------------------------------------
+
+Note: These are example runs. Your output will depend on the data entered.
