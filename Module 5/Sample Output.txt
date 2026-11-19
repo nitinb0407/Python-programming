@@ -1,0 +1,134 @@
+MODULE 5 - PYTHON PROGRAMMING
+SAMPLE OUTPUTS
+
+============================================================
+LAB 1: BANK ACCOUNT SYSTEM USING OOP
+============================================================
+
+===== BANK ACCOUNT SYSTEM =====
+Enter account holder name: Rahul
+Enter account number: 123456
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 1
+Enter deposit amount: 500
+Rs.500.00 deposited successfully.
+Current balance: Rs.1500.00
+
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 2
+Enter withdrawal amount: 200
+Rs.200.00 withdrawn successfully.
+Current balance: Rs.1300.00
+
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 3
+Account holder: Rahul
+Account number: 123456
+Available balance: Rs.1300.00
+
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 4
+Thank you for using the Bank Account System.
+
+
+============================================================
+LAB 2: LIBRARY MANAGEMENT SYSTEM
+============================================================
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 2
+
+----- BOOK LIST -----
+ID: 101 | Title: Python Basics | Author: John | Available: Yes
+ID: 102 | Title: Data Structures | Author: Mary | Available: Yes
+
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 3
+Enter book ID to borrow: 101
+You have borrowed 'Python Basics'.
+
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 4
+Enter book ID to return: 101
+'Python Basics' returned successfully.
+
+1. Add Book
+2. Display Books
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 5
+Thank you for using the Library Management System.
+
+
+============================================================
+LAB 3: DICE SIMULATOR USING RANDOM MODULE
+============================================================
+
+===== DICE SIMULATOR =====
+
+Press Enter to roll the dice or type q to quit:
+You rolled: 4
+
+Press Enter to roll the dice or type q to quit:
+You rolled: 2
+
+Press Enter to roll the dice or type q to quit: q
+
+Total rolls: 2
+Roll statistics:
+1: 0 time(s)
+2: 1 time(s)
+3: 0 time(s)
+4: 1 time(s)
+5: 0 time(s)
+6: 0 time(s)
+Thanks for playing!
+
+NOTE: Dice results vary because the program uses Python's random module.
+
+
+============================================================
+LAB 4: RETAIL SALES DASHBOARD USING CSV AND MATPLOTLIB
+============================================================
+
+===== RETAIL SALES DASHBOARD =====
+Total records: 6
+Total sales: Rs. 13650.00
+Product with highest sales: Laptop (Rs. 5000.00)
+Chart saved as: [path to Module 5/retail_sales_dashboard.png]
+
+The program also opens a Matplotlib bar chart showing sales
+amounts for Laptop, Mouse, Keyboard and Monitor.
+
+NOTE:
+1. Install Matplotlib before running this program:
+   pip install matplotlib
+2. The chart image is generated when Lab 4 is executed.
+3. The chart file is saved in the same folder as the Python file.
+4. The exact chart path may differ depending on the computer.
