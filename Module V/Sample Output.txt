@@ -1,0 +1,96 @@
+MODULE V - SAMPLE OUTPUTS
+========================
+
+LAB 1: BANK ACCOUNT SYSTEM USING OOP
+------------------------------------
+Enter account holder name: Nitin
+
+--- BANK ACCOUNT MENU ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 1
+Enter amount to deposit: Rs.500
+Rs.500.00 deposited successfully.
+
+Enter your choice: 2
+Enter amount to withdraw: Rs.200
+Rs.200.00 withdrawn successfully.
+
+Enter your choice: 3
+Account Holder: Nitin
+Available Balance: Rs.1300.00
+
+Enter your choice: 4
+Thank you for using our banking system!
+
+
+LAB 2: LIBRARY MANAGEMENT SYSTEM
+--------------------------------
+--- LIBRARY MANAGEMENT SYSTEM ---
+1. Display Books
+2. Add Book
+3. Borrow Book
+4. Return Book
+5. Exit
+Enter your choice: 1
+
+Available Books:
+- Python Basics: Available
+- Data Structures: Available
+- Computer Networks: Available
+
+Enter your choice: 3
+Enter book title to borrow: Python Basics
+You have borrowed "Python Basics".
+
+Enter your choice: 1
+
+Available Books:
+- Python Basics: Borrowed
+- Data Structures: Available
+- Computer Networks: Available
+
+Enter your choice: 5
+Thank you for using the library system!
+
+
+LAB 3: DICE SIMULATOR USING RANDOM MODULE
+-----------------------------------------
+--- DICE SIMULATOR ---
+
+Press Enter to roll the dice or type 'q' to quit:
+You rolled: 4
+
+Press Enter to roll the dice or type 'q' to quit:
+You rolled: 2
+
+Press Enter to roll the dice or type 'q' to quit: q
+
+--- ROLL SUMMARY ---
+Total rolls: 2
+Number 1: 0 time(s)
+Number 2: 1 time(s)
+Number 3: 0 time(s)
+Number 4: 1 time(s)
+Number 5: 0 time(s)
+Number 6: 0 time(s)
+Thanks for playing!
+
+Note: Dice results are random, so your output may be different.
+
+
+LAB 4: RETAIL SALES DASHBOARD USING CSV AND MATPLOTLIB
+------------------------------------------------------
+--- RETAIL SALES REPORT ---
+Laptop: Rs.75000.00
+Mouse: Rs.6000.00
+Keyboard: Rs.4500.00
+Monitor: Rs.20000.00
+
+Total Sales: Rs.105500.00
+Top Revenue Product: Laptop
+Dashboard saved as retail_sales_dashboard.png.
+
+Note: A chart window will also appear when the program is run.
