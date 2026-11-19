@@ -1,0 +1,47 @@
+MINI PROJECT: JSON-BASED LOG FILE ANALYZER
+
+Input file: log.json
+
+The JSON file contains 6 log records:
+- INFO: Application started successfully
+- WARNING: Multiple login attempts detected
+- ERROR: Database connection failed
+- INFO: Student logged in successfully
+- DEBUG: Login request processed
+- ERROR: Payment processing failed
+
+Sample console output:
+
+========== JSON LOG FILE ANALYZER ==========
+Log file: log.json
+Total log entries: 6
+
+Log Level Summary:
+INFO: 2
+WARNING: 1
+ERROR: 2
+DEBUG: 1
+
+Error Details:
+1. Database connection failed
+2. Payment processing failed
+
+Analysis completed successfully.
+Summary saved to log_summary.json
+
+Generated file: log_summary.json
+
+{
+    "total_entries": 6,
+    "level_counts": {
+        "INFO": 2,
+        "WARNING": 1,
+        "ERROR": 2,
+        "DEBUG": 1
+    },
+    "total_errors": 2,
+    "error_messages": [
+        "Database connection failed",
+        "Payment processing failed"
+    ]
+}
