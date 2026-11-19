@@ -1,0 +1,31 @@
+MINI PROJECT: JSON-BASED LOG FILE ANALYZER
+
+Sample input file: json_sample.log
+
+[
+    {"time": "09:00", "level": "INFO", "message": "Application started"},
+    {"time": "09:05", "level": "WARNING", "message": "Low disk space"},
+    {"time": "09:10", "level": "ERROR", "message": "Unable to connect"},
+    {"time": "09:15", "level": "INFO", "message": "User logged in"}
+]
+
+Sample output:
+
+JSON Log File Analysis
+----------------------
+Total log entries: 4
+Log level summary:
+{
+    "INFO": 2,
+    "WARNING": 1,
+    "ERROR": 1
+}
+Summary saved to json_log_summary.json
+
+Generated JSON summary file (json_log_summary.json):
+
+{
+    "INFO": 2,
+    "WARNING": 1,
+    "ERROR": 1
+}
