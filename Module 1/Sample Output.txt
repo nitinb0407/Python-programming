@@ -1,0 +1,65 @@
+MODULE 1 - SAMPLE OUTPUTS
+=========================
+
+LAB 1: BASIC PYTHON PROGRAM
+---------------------------
+Hello, World!
+Welcome to Python Programming!
+This is my first Python lab program.
+
+LAB 2: VARIABLES, OPERATORS AND INPUT/OUTPUT
+--------------------------------------------
+Enter your name: Nitin
+Enter your age: 18
+Enter first number: 20
+Enter second number: 5
+
+--- Student Details ---
+Name: Nitin
+Age: 18
+
+--- Arithmetic Operations ---
+Addition: 25.0
+Subtraction: 15.0
+Multiplication: 100.0
+Division: 4.0
+Remainder: 0.0
+
+LAB 3: SIMPLE CALCULATOR AND AREA CALCULATOR
+--------------------------------------------
+SIMPLE CALCULATOR
+Enter first number: 10
+Enter second number: 5
+Enter operation (+, -, *, /): *
+Result: 50.0
+
+AREA CALCULATOR
+1. Rectangle
+2. Circle
+Choose a shape (1 or 2): 1
+Enter length: 8
+Enter width: 4
+Area of rectangle: 32.0
+
+LAB 4: UNIT CONVERTER AND BILL GENERATOR
+----------------------------------------
+UNIT CONVERTER
+1. Kilometres to Miles
+2. Celsius to Fahrenheit
+Choose conversion (1 or 2): 1
+Enter distance in kilometres: 10
+Distance in miles: 6.21
+
+SIMPLE BILL GENERATOR
+Enter item name: Notebook
+Enter quantity: 3
+Enter price per item (Rs.): 40
+
+------ BILL ------
+Item: Notebook
+Quantity: 3
+Price per item: Rs. 40.00
+Total amount: Rs. 120.00
+------------------
+
+Note: Outputs shown are sample runs. Your results will depend on the values entered.
